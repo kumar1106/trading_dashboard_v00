@@ -1,5 +1,10 @@
+# Core app
 streamlit==1.30.0
+
+# Data
 pandas>=2.1.0,<3.0.0
 yfinance==0.2.31
-torch==2.2.0
+
+# ML / summarization (CPU-friendly, compatible with Python 3.13)
+torch>=2.5.0,<3.0.0
 joblib
