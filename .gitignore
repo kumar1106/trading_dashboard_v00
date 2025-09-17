@@ -1,1 +1,24 @@
-# .gitignore content placeholder
+# .gitignore
+# Ignore files and folders that should not be committed to git
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+dashboard.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# CSV inputs (optional)
+positions.csv

@@ -1,1 +1,4 @@
-# positions.csv content placeholder
+Symbol,Quantity,Avg_Price,Currency
+AAPL,10,175.50,USD
+GOOGL,5,1250.30,USD
+TSLA,3,720.10,USD

@@ -1,1 +1,5 @@
-# requirements.txt content placeholder
+streamlit==1.30.0
+pandas>=2.1.0,<3.0.0
+yfinance==0.2.31
+torch==2.2.0
+joblib
