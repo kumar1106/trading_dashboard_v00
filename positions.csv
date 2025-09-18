@@ -1,4 +1,5 @@
-Symbol,Quantity,Avg_Price,Currency
-AAPL,10,175.50,USD
-GOOGL,5,1250.30,USD
-TSLA,3,720.10,USD
+Symbol,Quantity,Avg_Price,Currency,P&L,P&L_Pct
+AAPL,10,175,USD,0,0
+GOOGL,5,2850,USD,0,0
+TSLA,8,750,USD,0,0
+AMZN,2,3450,USD,0,0
